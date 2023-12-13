@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timi</h1>
 <h3 align="center">A passionate fullstack and game developer student from Finland</h3>
+<img align="right" alt="code" width="300" src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47kbgfcqb4bw0h3c6fccexcgmuna0srktg07gjyd7f&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timiseila&label=Profile%20views&color=0e75b6&style=flat" alt="timiseila" /> </p>
 
