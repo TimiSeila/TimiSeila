@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timi</h1>
-<h3 align="center">A passionate fullstack and game developer from Finland</h3>
+<h3 align="center">A passionate fullstack and game developer student from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timiseila&label=Profile%20views&color=0e75b6&style=flat" alt="timiseila" /> </p>
 
