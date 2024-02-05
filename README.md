@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My first React Native app**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **Hand gesture controls on web app**
 
 - 📫 How to reach me **timi.seila@gmail.com**
 
