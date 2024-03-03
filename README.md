@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timiseila&label=Profile%20views&color=0e75b6&style=flat" alt="timiseila" /> </p>
 
-- 🔭 I’m currently working on **My first React Native app**
+- 🔭 I’m currently working on **Hand gesture controls on web app**
 
 - 🌱 I’m currently learning **Hand gesture controls on web app**
 
